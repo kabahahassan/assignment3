@@ -1,31 +1,31 @@
 ### Assignment3 - AWS EC2 & VPC
 
-##first creating our network:
+## first creating our network:
 
-####Creating VPC: 
+#### Creating VPC: 
 
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/vpc.png?raw=true)
 
-####Creating subnets:
+#### Creating subnets:
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/subnets.png?raw=true)
 
-####Internet Gateway:
+#### Internet Gateway:
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/internet-gateway.png?raw=true)
 
 
-####NAT Gateway:
+#### NAT Gateway:
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/NAT.png?raw=true)
 
-####Route Tables:
+#### Route Tables:
 **public route table:**
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/public-route-table.png?raw=true)
 
-**private route table:** 
+** private route table: ** 
 
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/private-route-table.png?raw=true)
 
 
-**after we created VPC network, we created 2 EC2 instaces as described: **
+** after we created VPC network, we created 2 EC2 instaces as described: **
 
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/instances.png?raw=true)
 
