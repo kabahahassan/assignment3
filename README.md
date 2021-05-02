@@ -1,7 +1,8 @@
 ### Assignment3 - AWS EC2 & VPC
 
-##first creating our network: 
-###Creating VPC: 
+##first creating our network:
+
+####Creating VPC: 
 
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/vpc.png?raw=true)
 
