@@ -20,12 +20,12 @@
 **public route table:**
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/public-route-table.png?raw=true)
 
-** private route table: ** 
+**private route table:** 
 
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/private-route-table.png?raw=true)
 
 
-** after we created VPC network, we created 2 EC2 instaces as described: **
+**after we created VPC network, we created 2 EC2 instaces as described:**
 
 ![](https://github.com/kabahahassan/assignment3/blob/main/screenshot/instances.png?raw=true)
 
@@ -35,7 +35,7 @@
 | files      | docker-compose-wordpress.yml        |   docker-compose-mySQL.yml |
 |  |      |   | |
 
-** docker-compose-wordpress.yml : **
+**docker-compose-wordpress.yml :**
 ```
 version: '3.7'
 services:
@@ -53,7 +53,7 @@ services:
             WORDPRESSS_DB_NAME: wordpress
 ```
 
-** docker-compose-mySQL.yml : **
+**docker-compose-mySQL.yml :**
 ```
 version: '3.7'
 volumes:
